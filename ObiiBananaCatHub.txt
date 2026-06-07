@@ -11,7 +11,7 @@ getgenv().Nousigi = true
 
 local DisableAnimation = game.Players.LocalPlayer.PlayerGui:FindFirstChild('TouchGui')
 local T1UIColor = {
-	["Border Color"] = Color3.fromRGB(255, 206, 27),
+	["Border Color"] = Color3.fromRGB(215, 215, 215),
 	["Click Effect Color"] = Color3.fromRGB(230, 230, 230),
 	["Setting Icon Color"] = Color3.fromRGB(230, 230, 230),
 	["Logo Image"] = "rbxassetid://5009915795",
